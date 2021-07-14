@@ -58,8 +58,12 @@ label{
     color:white;
     text-decoration: none;
     background-color:#E02C6D;
+    font-weight: bold;
     
 
+}
+.watch-btn a:hover{
+    background-image: linear-gradient(rgba(230, 37, 47, 0.562), tomato);
 }
 .banner img{
     width:50%;
